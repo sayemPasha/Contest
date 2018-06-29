@@ -1,3 +1,9 @@
+/*
+PRE:
++ srand( seed ) generates seed based on given parameter
++ rand() return the next pseudo random number
++ RAND_MAX is the maximum random number you can get
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
